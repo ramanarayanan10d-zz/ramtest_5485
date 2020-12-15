@@ -1,0 +1,7 @@
+{
+  "name": "ramtest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
